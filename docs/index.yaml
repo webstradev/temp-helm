@@ -3,12 +3,12 @@ entries:
   hospital-minio-tenant:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-09-03T13:44:58.166456+02:00"
+    created: "2025-09-03T14:29:41.69323+02:00"
     description: Hospital MinIO Tenant
     digest: 98f0345552c25eac46b9153ee1a09279b4848a7abf8038990f68003fc7776797
     name: hospital-minio-tenant
     type: application
     urls:
-    - https://webstradev.github.com/charts/hospital-minio-tenant-0.0.1.tgz
+    - https://webstradev.github.com/temp-helm/hospital-minio-tenant-0.0.1.tgz
     version: 0.0.1
-generated: "2025-09-03T13:44:58.16372+02:00"
+generated: "2025-09-03T14:29:41.692347+02:00"
