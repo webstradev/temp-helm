@@ -1,9 +1,19 @@
 apiVersion: v1
 entries:
+  hospital-chart:
+  - apiVersion: v2
+    created: "2025-09-04T09:22:11.696285+02:00"
+    description: A Helm chart that deploys all hospital components
+    digest: 23a42a49940bc491c75e46ab923172171c5701dc53357c6effabc4a7fcb22c85
+    name: hospital-chart
+    type: application
+    urls:
+    - https://webstradev.github.io/temp-helm/hospital-chart-0.0.1.tgz
+    version: 0.0.1
   hospital-minio-tenant:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-09-03T14:31:24.372943+02:00"
+    created: "2025-09-04T09:22:11.696775+02:00"
     description: Hospital MinIO Tenant
     digest: 98f0345552c25eac46b9153ee1a09279b4848a7abf8038990f68003fc7776797
     name: hospital-minio-tenant
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://webstradev.github.io/temp-helm/hospital-minio-tenant-0.0.1.tgz
     version: 0.0.1
-generated: "2025-09-03T14:31:24.371806+02:00"
+generated: "2025-09-04T09:22:11.695301+02:00"
